@@ -1,2 +1,2 @@
 # mg-utils
-Collection of functions
+Collection of common functions
